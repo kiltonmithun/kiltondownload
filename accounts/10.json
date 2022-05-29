@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kiltondownload",
+  "private_key_id": "0e82c808f4bc850a1428feb80b3c100f3a20eb6f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQD6m0LXM3djrUb8\nRTSoab0V2L/dQ6e9v/oFuDlh8hrAwn0BYSAh7ZH7TeJWwzOFo5VAi48joxrUifLs\nomV7Ou9X2AerEzswi8LWrkrvp6hEH/D+gDgzJcmc+5X+GY/ZabcIuIMeFsCWEyXV\n0jR/UsVxbrwAaZ06Gcw6ffEbL5ATRqwwsUzpjdRXs1aqQ2WhHKYbC4v+0w5x0u1v\no36a8jX2CiRvfQq9G0+UY4Xn/ovwKV8uttFa9qRXkA9VV0n2ooAHQThk7VG6rcjo\ngE78ARCS6rmsYwygFV4bRrNTee2ziwW9d6xn922gF5lS9ONkIu/GkCpT73Ij9Em2\nx2Eqt6e3AgMBAAECggEAAOAsAp5+a02+ssD3JyN/cqUYPoiu/F3AXObA5JO4/jVv\nxGJ3f0baPLuP7+estWnV6qzSKji2rklxHNyQaDbTgUYS+MkPauMCIkfnoSC/2MUX\nzXvbNmqKYs8KPiIOu56/8frbEm7X625TsoSShGNgpz3Q0FuOHhba/NVV01d+NGMI\nD9ZlResaEd/PZMDMmfNlOwr8q+gBL9jwoHYms6817hgwNSirJpUBy5utNNd1MjR+\n2Q9IbPFbmEMUDdK0oez8fhT/l2PI8cwUcfDz/ifAj4at8IlNcf1htiYVrUVA0heU\nro5d/OumpIT2duXn/z7e+0yFa4Cde4QXiKeG9e5JiQKBgQD/DRzXiaqcrybf2gmS\n2LQCOTq8/wnC6vmk4RmrM8C1URuvH6fPt/DHjS80m63sv4QCziYBjg5bd822WO0D\nMTiiLK7yUtJIe4rplHUSZ7o+Qufwi+1rKcmiWyMxEiVFFaAjjv+gnXYbLXCEjRBt\nhbRa2jcjR3uZXwUNgxn5eobspQKBgQD7iepp2DO4Pntlakf1t6TN31YojQEWCGJB\nZorC0X3zcn5UgSi6Llot6H5Oe6RsJLGZPcOxXVvyGkFvdEyznraI0RRQ0Ni0wMkr\nUnsZzZMoFH5aNowCZJpSExdoJXYYBW8MgkHHRv8EARFM0uST4e7i/I3iIadJh+zx\nlfwWr+nIKwKBgBB+OpU9k8jaErt7EA9s8AcMyF2caHcwVsBwxgYqLJYNDqs+cs2d\n6XYeDSVrw82BfPnpds+27frAPo9CJOGF91GVbiLBdFO3mX4NWZy9FHAeR31orwu1\nAhL7rcTolXxoL5jdEG7Ef/S19Ya80IkkkkslvVcMslNyr5L2HWHiqIL5AoGAMLqP\nBuIzYsX38bWdKyTgcGGLt19ZjoMhRbovt34OAFN11bkPwsGoBqy7i0i4mZqiLSWh\n+4IyhbxAYO8OzN06T1bxsJZE5P9T+WiJIH6Ku4D82U0n4m7K1ouMRUi8j/q9gJbb\nV1eRn5z1VQSl82AZfy+d7OjIF56VcFe19k8t4vECgYBXbDpgKcy8g4wuhaqD4p3F\nhjsikMVuvjI6MiJ1eQEzKFqbhXW/zrVtPTYO72sf7Ede2LDjLTrcD/vJPqx6a4Ri\nu7t7cS4gzQ0fXNeoh/UHyI4MMeF/MjEB8q1O+/F/33eX9p/LwvZgxamn3be2ld3V\nho7QvrZnPYNAfirk6IEckw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-lkg7mm999ngltbyg8lmmosaho4@kiltondownload.iam.gserviceaccount.com",
+  "client_id": "113647946547185878517",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-lkg7mm999ngltbyg8lmmosaho4%40kiltondownload.iam.gserviceaccount.com"
+}
